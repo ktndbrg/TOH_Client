@@ -9,6 +9,7 @@ Even made a server for it, and it works on android. Still not impressed.
 
 The code is supposed to be GPLv3, however, flashplayer is a proprietary mess, soo license is just open.
 Use it for what you want. No guarantees.
+It was upgraded for Adobe Animate and works. (From CS5 or something).
 
 It has Android mobile support.
 It checks if you have touch input enabled, if so; it enables the GUI for touch.
