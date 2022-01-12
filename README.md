@@ -1,7 +1,7 @@
 # TOH_Client
 Actionscript Client for Town of Heggen
 
-IT project for highschool.
+2017 IT project for highschool.
 Teacher did not understand jack-shit of the code.
 Didn't even know what a 'class' is.
 Got a bad grade bcuz of it.
